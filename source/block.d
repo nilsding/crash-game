@@ -39,7 +39,7 @@ Color4b toColor(BlockColor blockColor)
   case BlockColor.Yellow: return Color4b(255, 255, 0);
   case BlockColor.White:  return Color4b(255, 255, 255);
   case BlockColor.Purple: return Color4b(238, 130, 238);
-  case BlockColor.Orange: return Color4b(255, 165, 255);
+  case BlockColor.Orange: return Color4b(255, 165, 0);
   case BlockColor.Gold:   return Color4b(252, 255, 95);
   default:                return Color4b(200, 200, 200);
   }
