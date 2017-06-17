@@ -1,5 +1,6 @@
 name "crash-game"
 description "Some clone of an arcade game"
+homepage "https://github.com/nilsding/crash-game"
 authors "Georg Gadinger"
 copyright "Copyright © 2016, 2017, Georg Gadinger"
 license "BSD 2-clause"
