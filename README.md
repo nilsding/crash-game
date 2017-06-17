@@ -1,5 +1,7 @@
 # crash-game
 
+[![](https://img.shields.io/dub/v/crash-game.svg?style=flat-square)](https://code.dlang.org/packages/crash-game)
+
 A clone of an arcade game I enjoyed playing when I was a kid.
 
 ![Screenshot](./screenshot.png)
